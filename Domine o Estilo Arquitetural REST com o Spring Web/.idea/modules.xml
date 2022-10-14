@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/.idea/Domine o Estilo Arquitetural REST com o Spring Web.iml" filepath="$PROJECT_DIR$/.idea/Domine o Estilo Arquitetural REST com o Spring Web.iml" />
+      <module fileurl="file://$PROJECT_DIR$/REST-Spring/REST-spring.iml" filepath="$PROJECT_DIR$/REST-Spring/REST-spring.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Spring-boot-admin/Spring-boot-admin.iml" filepath="$PROJECT_DIR$/Spring-boot-admin/Spring-boot-admin.iml" />
+    </modules>
+  </component>
+</project>

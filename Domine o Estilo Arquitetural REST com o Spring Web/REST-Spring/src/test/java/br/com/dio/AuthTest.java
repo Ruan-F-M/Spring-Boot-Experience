@@ -22,7 +22,7 @@ public class AuthTest {
 	public void deveRetornarSucessoComCredenciaisValidas() throws Exception {
 		URI uri = new URI("/auth/signin");
 
-		String content = "{ \"username\" : \"karantes\" , \"senha\" : \"123456\"}";
+		String content = "{ \"username\" : \"Ruan-F-M\" , \"senha\" : \"123456\"}";
 		
 		mockMvc.perform(MockMvcRequestBuilders
 				.post(uri)

@@ -1,0 +1,14 @@
+<component name="ArtifactManager">
+  <artifact type="war" name="REST-spring:war">
+    <output-path>$PROJECT_DIR$/REST-Spring/target</output-path>
+    <properties id="maven-jee-properties">
+      <options>
+        <module>REST-spring</module>
+        <packaging>war</packaging>
+      </options>
+    </properties>
+    <root id="archive" name="REST-spring-0.0.1-SNAPSHOT.war">
+      <element id="artifact" artifact-name="REST-spring:war exploded" />
+    </root>
+  </artifact>
+</component>
