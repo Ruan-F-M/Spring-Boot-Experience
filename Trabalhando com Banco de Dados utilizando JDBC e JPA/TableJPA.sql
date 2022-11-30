@@ -37,3 +37,4 @@ INSERT INTO estado(nome, sigla) VALUES ("São Paulo", "SP");
 
 SELECT * FROM aluno WHERE id = 3
 
+SET @@global.time_zone = '-4:00';
